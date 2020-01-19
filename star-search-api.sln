@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "star-search-api", "star-search-api\star-search-api.csproj", "{8DABE319-271A-4EE3-AD30-8379F13E9060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DABE319-271A-4EE3-AD30-8379F13E9060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DABE319-271A-4EE3-AD30-8379F13E9060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DABE319-271A-4EE3-AD30-8379F13E9060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DABE319-271A-4EE3-AD30-8379F13E9060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
